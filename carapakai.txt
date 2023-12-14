@@ -1,0 +1,8 @@
+masukin email sama password ke dalam email.txt
+
+format
+
+email | password
+
+contoh: mekreng@gmail.com | 12345
+
