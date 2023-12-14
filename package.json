@@ -1,0 +1,20 @@
+{
+  "name": "bot-coca-cola",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "prompt-sync": "^4.2.0",
+    "puppeteer-core": "^21.6.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "readline-sync": "^1.4.10",
+    "timezone": "^1.0.23"
+  }
+}
