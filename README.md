@@ -32,7 +32,6 @@ node app.js
 
 ## SAMPLE
 ![WhatsApp Image 2023-12-14 at 22 40 23_119f2ff3](https://github.com/r3ntan/grivycolabyr3ntan/assets/145985015/79aa4806-6d76-4a96-9f4f-49eb71edeecd)
-![WhatsApp Image 2023-12-14 at 22 40 23_5eba8752](https://github.com/r3ntan/grivycolabyr3ntan/assets/145985015/4f674bff-90f5-43a8-ac10-48c013a21753)
 
 ## Authors
 
